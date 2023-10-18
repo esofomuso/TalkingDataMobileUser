@@ -46,7 +46,7 @@ How can the behavioral data from TalkingData be leveraged to predict users' demo
   1. Data collection
   2. Exploratory Data Analysis (EDA) and Class balancing
   3. Supervised Learning
-
+     
      1. SelectKbest
       1. GridsearchCV with all models (RandomForest, SVM, KNN).
       2. Evaluate using classification report, confusion matrix, cross-validation
@@ -55,7 +55,7 @@ How can the behavioral data from TalkingData be leveraged to predict users' demo
       1. GridsearchCV with all models (RandomForest, SVM, KNN).
       2. Evaluate using classification report, confusion matrix, cross-validation
     3. Write up analysis and comparison
-  4. Unsupervised Learning Approach
+  5. Unsupervised Learning Approach
 
     1. Using PCA and K-means to do the clustering (visualizations and many clusters, justify using silhouette scores)
     2. For PCA/K-means (K>= 4), draw the bar graphs to answer the following questions:
