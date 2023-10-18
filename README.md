@@ -47,15 +47,15 @@ How can the behavioral data from TalkingData be leveraged to predict users' demo
   2. Exploratory Data Analysis (EDA) and Class balancing
   3. Supervised Learning
      
-     1. SelectKbest
+    1. SelectKbest
       1. GridsearchCV with all models (RandomForest, SVM, KNN).
       2. Evaluate using classification report, confusion matrix, cross-validation
-
-     2. PCA
+    
+    2. PCA
       1. GridsearchCV with all models (RandomForest, SVM, KNN).
       2. Evaluate using classification report, confusion matrix, cross-validation
     3. Write up analysis and comparison
-  5. Unsupervised Learning Approach
+  4. Unsupervised Learning Approach
 
     1. Using PCA and K-means to do the clustering (visualizations and many clusters, justify using silhouette scores)
     2. For PCA/K-means (K>= 4), draw the bar graphs to answer the following questions:
@@ -68,16 +68,18 @@ How can the behavioral data from TalkingData be leveraged to predict users' demo
     5. Write up the comparison analysis.
   5. Deep Learning
 
-     1. Try different ANN models and train them on the training set with the following:
+    1. Try different ANN models and train them on the training set with the following:
       1. Number of layers
       2. Activation functions of the layers
       3. Number of neurons in the layers
       4. Different batch sizes during training
-
-     2. CNN & RNN
+    
+    2. CNN & RNN
       1. with unbalanced dataset show classification report
       2. with balanced dataset show classification report
     3. Use the best performing model from supervised learning together with CNN and RNN
-    3. Compare the models' training scores and interpret the results.
-    4. Evaluate how the models perform on the test set. Compare the results of the models.
+    4. Compare the models' training scores and interpret the results.
+    5. Evaluate how the models perform on the test set. Compare the results of the models.
   6. Conclusions and recommendations
+## 5. Write up analysis and comparison
+## 6. Conclusions
